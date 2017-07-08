@@ -17,8 +17,8 @@
 
 # Setup
 1. Clone or fork https://github.com/ycfeng/data-science
-2. Run `python /datas-science/tools/py_tools/setup.py install`
-3. Run `mkdir $/Users/$USER/.authentication`
+2. From the repository's root directory, run `python tools/py_tools/setup.py install`
+3. Run `mkdir /Users/$USER/.authentication`
 4. If you are using Redshift,
     1. Create a file called `redshift_connection_info.json` with content `{"username": "yourusername", "password": "yourpassword", "host": "yourhost", "port": "yourport", "database": "yourdatabase", "drivername": "redshift+psycopg2"}`
     2. Create a file called `redshift_connection_args.json` with content `{"sslmode" : "prefer"}`
