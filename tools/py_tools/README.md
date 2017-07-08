@@ -8,7 +8,7 @@
     2. Add `Postgres/Library/PostgreSQL/9.5/bin:` to the beginning of your `PATH` variable
     3. Install [`psycopg2`](https://anaconda.org/anaconda/psycopg2) if it does not already exist; as of 7/8/17, this package uses version 2.6.2
 4. If you are using [Amazon Redshift](https://aws.amazon.com/redshift/),
-    1. Go back to Step 3
+    1. Go back and complete Step 3
     2. Install [`sqlalchemy-redshift`](https://anaconda.org/conda-forge/sqlalchemy-redshift); as of 7/8/17, this package uses version 0.5.0
 5. If you are using [MySQL](https://www.mysql.com/),
     1. Install [MySQL](https://dev.mysql.com/downloads/mysql/) if it does not already exist; as of 7/8/17, this package uses version 14.14
