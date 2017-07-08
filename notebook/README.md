@@ -1,5 +1,4 @@
-Local Jupyter Notebook Setup
-# Setup for MacOS #
+# Local Jupyter Notebook Setup for MacOS #
 1. In terminal, navigate to some directory of your choice
 2. Run `jupyter notebook`
 3. Click `New > Python 3` to create your very first Jupyter Notebook
